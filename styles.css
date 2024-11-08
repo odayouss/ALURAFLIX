@@ -1,0 +1,51 @@
+body{
+    color: black;
+    background-color: white ;
+    margin: 0px;
+    font-family: "Comic Neue", cursive;
+}
+header {
+
+    border-bottom: solid 3px rgb(9, 8, 8);
+    padding: 21px;
+    font-size: 80px;
+    color: crimson;
+}
+
+
+.chamada {
+
+    background: lightcoral;
+    padding-bottom: 70px;
+    padding-top: 30px;
+    display: flex;
+    justify-items: center;
+}
+
+.texto-principal {
+
+    margin-right:  15%;
+}
+h1{
+    font-size: 50px
+}
+p{
+
+
+    font-size: 18px;
+}
+img{
+    height: 200px;
+
+}
+
+.categoria{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+
+}
+.categoria{
+    padding-left: 20px;
+    
+}
